@@ -95,8 +95,8 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
-- The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
+- The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
 - Data Science from Scratch First Principles with Python - Joel Gru (Ed. O’Reilly)
 - Artificial Intelligence for Humans, Volume 1 Fundamental Algorithms - Jeff Heaton (Ed. Heaton Research) 
 - Artificial Intelligence for Humans, Volume 2 Nature-Inspired Algorithms - Jeff Heaton (Ed. Heaton Research) 
@@ -104,6 +104,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 - Pattern Recognition And Machine Learning - Christopher Bishop (Ed. Springer)
 - [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow 
 
+Se recomiendan principalmente los dos primeros libros de esta lista.
 ---
 Esta obra está bajo una
 [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional][cc-by-nc-sa].
