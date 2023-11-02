@@ -8,3 +8,4 @@
 * Métodos de evaluación de regresiones
 * Variables dummy
 * Construcción de modelos
+* Regresión Ridge y Lasso
