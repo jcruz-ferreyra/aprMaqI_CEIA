@@ -21,6 +21,6 @@ Los criterios de aprobación son los siguientes:
 7. Como última fecha de entrega del trabajo, estará limitado a 7 días posteriores a la última clase.
 8. La entrega es por correo electrónico, ya sea el envío de la notebook o el link a repositorio (de GitHub o GitLab) con el trabajo. 
 
-## Link de formulario de Google para envio del trabajo (13Co2023)
+## Link de formulario de Google para envio del trabajo
 
-El informe a entregar se debe envia mediante el siguiente formulario: [https://forms.gle/C5GdGaqYihr6EVMa7](https://forms.gle/C5GdGaqYihr6EVMa7). La fecha de entrega es el 20/12/2023 a las 23:59.
+El informe a entregar se debe envia mediante el siguiente formulario: [https://forms.gle/UctR4zUtjNvp2i8W7](https://forms.gle/UctR4zUtjNvp2i8W7). La fecha de entrega es el 27/04/2024 a las 23:59.
