@@ -99,6 +99,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
 - The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
 - Data Science from Scratch First Principles with Python - Joel Gru (Ed. O’Reilly)
+- The Hundred-Page Machine Learning Book - Andriy Burkov (Ed. Burkov)
 - Artificial Intelligence for Humans, Volume 1 Fundamental Algorithms - Jeff Heaton (Ed. Heaton Research) 
 - Artificial Intelligence for Humans, Volume 2 Nature-Inspired Algorithms - Jeff Heaton (Ed. Heaton Research) 
 - Artificial Intelligence for Humans, Volume 3 Deep Learning and Neural Networks - Jeff Heaton (Ed. Heaton Research) 
