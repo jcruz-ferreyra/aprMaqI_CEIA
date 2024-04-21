@@ -27,6 +27,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
     * PyTorch
     * Matplotlib
     * Seaborn
+    * Optuna
 * Consola Interactiva de Python 
     * IPython
 * Herramientas
@@ -41,6 +42,12 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Introducción a la Materia
 * Introducción a Machine Learning
 
+### [Clase 2](clase2/README.md)
+* Clasificador KNN
+* Medidas de distancia
+* Métodos de Ajuste de los hiper-parámetros
+
+
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
@@ -54,6 +61,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 - [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow 
 
 Se recomiendan principalmente los dos primeros libros de esta lista.
+
 ---
 Esta obra está bajo una
 [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional][cc-by-nc-sa].
