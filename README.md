@@ -45,7 +45,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 ### [Clase 2](clase2/README.md)
 * Clasificador KNN
 * Medidas de distancia
-* Métodos de Ajuste de los hiper-parámetros
+* Métodos de ajuste de los hiper-parámetros
 
 
 ## Bibliografia
