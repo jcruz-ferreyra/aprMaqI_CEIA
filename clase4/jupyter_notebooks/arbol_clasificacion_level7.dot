@@ -128,7 +128,7 @@ edge [fontname="helvetica"] ;
 36 -> 62 ;
 63 [label="entropy = 0.0\nsamples = 12\nvalue = [12, 0]\nclass = No tiene enfermedad cardiaca", fillcolor="#e58139"] ;
 62 -> 63 ;
-64 [label="oldpeak <= 1.95\nentropy = 0.984\nsamples = 82\nvalue = [35, 47]\nclass = Tiene enfermedad cardiaca", fillcolor="#cce6f8"] ;
+64 [label="oldpeak <= 1.95\nentropy = 0.984\nsamples = 82\nvalue = [35.0, 47.0]\nclass = Tiene enfermedad cardiaca", fillcolor="#cce6f8"] ;
 62 -> 64 ;
 65 [label="trestbps <= 176.0\nentropy = 0.89\nsamples = 65\nvalue = [20, 45]\nclass = Tiene enfermedad cardiaca", fillcolor="#91c9f1"] ;
 64 -> 65 ;
