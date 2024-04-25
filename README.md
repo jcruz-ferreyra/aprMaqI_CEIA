@@ -47,6 +47,11 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Medidas de distancia
 * Métodos de ajuste de los hiper-parámetros
 
+### [Clase 3](clase3/README.md)
+
+* Support Vector Machines
+* Máquina de vector de soportes como clasificador
+* Máquina de vector de soportes como regresión
 
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
