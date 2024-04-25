@@ -3,8 +3,8 @@
 ## [Teoría](teoria/clase1.pdf)
 
 * Introducción a la Materia
-* Introducción a Machine Learning
-* Rol del Data Scientist
-* Tipos de Datos. Análisis de Datos.
-* Tipos de aprendizaje. Supervisado y No Supervisado.
-* Clasificación de Algoritmos
+* Introducción a Aprendizaje Automático
+* ¿Cuándo usarlo?
+* Ciclo de Vida
+* Entendiendo el negocio
+* Metodología para construir modelos
