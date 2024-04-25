@@ -2,9 +2,8 @@
 
 ## [Teoría](teoria/clase3.pdf)
 
-* Conceptos de clasificación
-* Regresión logistica simple y múltiple
-* Regresión logistica multi-clase
-* Métodos de evaluación de clasificación
-* Clasificador KNN
-* Curva ROC
+* Support Vector Machines
+* Maximal Margin Classifier
+* Clasificador de vector de soportes
+* Máquina de vector de soportes como clasificador
+* Máquina de vector de soportes como regresión
