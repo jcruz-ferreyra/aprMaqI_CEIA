@@ -66,9 +66,3 @@ Link al dataset: [https://www.kaggle.com/datasets/fedesoriano/stellar-classifica
 Este conjunto de datos contiene información sobre automóviles usados. Se busca predecir el precio apropiado dada las características de los autos.
 
 Link al dataset: [https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data)
-
-### Dataset de calidad de agua
-
-El acceso al agua potable es esencial para la salud, un derecho humano básico y un componente de una política eficaz de protección de la salud. En algunas regiones, se ha demostrado que las inversiones en abastecimiento de agua y saneamiento pueden generar un beneficio económico neto, ya que las reducciones de los efectos adversos para la salud y los costos de atención médica superan los costos de llevar a cabo las intervenciones. El dataset para este caso contiene métricas de calidad del agua para 3276 cuerpos de agua diferentes. Se busca predecir si el agua es potable o no dado estas métricas.
-
-Link al dataset: [https://www.kaggle.com/datasets/adityakadiwal/water-potability](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
