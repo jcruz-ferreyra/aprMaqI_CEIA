@@ -59,7 +59,13 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Árboles de regresión
 * Árboles de clasificación
 
-## Bibliografia
+### [Clase 5](clase5/README.md)
+
+* Redes Neuronales
+* Perceptrones y neuronas sigmoideas
+* Redes Feed-Forward
+
+## Bibliografía
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
 - The Elements of Statistical Learning - Trevor Hastie (Ed. Springer)
