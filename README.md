@@ -53,6 +53,12 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Máquina de vector de soportes como clasificador
 * Máquina de vector de soportes como regresión
 
+### [Clase 4](clase4/README.md)
+
+* Árboles de decisión
+* Árboles de regresión
+* Árboles de clasificación
+
 ## Bibliografia
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
