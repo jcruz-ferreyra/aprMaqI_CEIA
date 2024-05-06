@@ -24,7 +24,3 @@ Los criterios de aprobación son los siguientes:
 ## Link de formulario de Google para envio del trabajo (15Co2023)
 
 El informe a entregar se debe envia mediante el siguiente formulario: [https://forms.gle/Xg8yA69dFucwETGT8](https://forms.gle/Xg8yA69dFucwETGT8). La fecha de entrega es el 23/06/2023 a las 23:59.
-
-## Link de formulario de Google para envio del trabajo (14Co2023)
-
-El informe a entregar se debe envia mediante el siguiente formulario: [https://forms.gle/UctR4zUtjNvp2i8W7](https://forms.gle/UctR4zUtjNvp2i8W7). La fecha de entrega es el 28/04/2024 a las 23:59.
