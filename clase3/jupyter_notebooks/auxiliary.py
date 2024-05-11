@@ -4,12 +4,12 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 
 
-def plot_boundary(X, y, model, 
+def plot_boundary(X, y, model,
                   step_x=(0.1, 0.1),
                   max_x=(1, 1),
                   min_x=(-1, -1),
                   point_size=5,
-                  figsize=(7, 5), 
+                  figsize=(7, 5),
                   label_point=("1", "0"),
                   colormap_frontier=('#7aa5fb', '#f8b389'),
                   colormap_points=('#5471ab', '#d1885c'),
@@ -17,6 +17,12 @@ def plot_boundary(X, y, model,
                   legend=True,
                   legend_title=None
                   ):
+    # Hotfix for bug in matplotlib 3.8.0.
+    # https://github.com/matplotlib/matplotlib/issues/26949/
+    if type(colormap_frontier) is tuple:
+        colormap_frontier = list(colormap_frontier)
+    if type(colormap_points) is tuple:
+        colormap_points = list(colormap_points)
 
     # Crear la malla de puntos para el gráfico
     X1, X2 = np.meshgrid(
@@ -42,8 +48,8 @@ def plot_boundary(X, y, model,
             s=point_size
         )
 
-    plt.xlabel(labels_axis[0]) 
-    plt.ylabel(labels_axis[1]) 
+    plt.xlabel(labels_axis[0])
+    plt.ylabel(labels_axis[1])
     if legend:
         plt.legend(title=legend_title)
 
@@ -58,7 +64,6 @@ def plot_svm_margins(X, model,
                      alpha=1,
                      linestyles=['--', '-', '--'],
                      linewidths=[1, 3, 1]):
-    
     # Crear la malla de puntos para el gráfico
     X1, X2 = np.meshgrid(
         np.arange(start=X[:, 0].min() + min_x[0], stop=X[:, 0].max() + max_x[0], step=step_x[0]),
@@ -70,7 +75,7 @@ def plot_svm_margins(X, model,
 
     if len(Z.shape) == 1:
         Z = Z.reshape(-1, 1)
-    
+
     for col in range(Z.shape[1]):
-        plt.contour(X1, X2, Z[:,col].reshape(X1.shape), colors=colors, levels=[-1, 0, 1], 
+        plt.contour(X1, X2, Z[:, col].reshape(X1.shape), colors=colors, levels=[-1, 0, 1],
                     alpha=alpha, linestyles=linestyles, linewidths=linewidths)
