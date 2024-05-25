@@ -17,8 +17,8 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 
 ### Requerimientos
 * Lenguaje de Programación
-    * Python >=3.8
-    * Pip / Conda para instalar librerías
+    * Python >=3.10
+    * Poetry (>=1.8) / Pip / Conda para instalar librerías
 * Librerías
     * Numpy
 	* Pandas
@@ -35,6 +35,10 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * IDE Recomendados 
     * Visual Studio Code
     * PyCharm Community Edition    
+
+#### Poetry
+Este repositorio contiene un archivo `pyproject.toml` para instalar las dependencias usando 
+[Poetry](https://python-poetry.org/)
 
 ## Contenido
 
