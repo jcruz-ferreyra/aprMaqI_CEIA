@@ -70,6 +70,13 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 * Perceptrones y neuronas sigmoideas
 * Redes Feed-Forward
 
+### [Clase 6](clase6/README.md)
+
+* Aprendizaje no supervisado
+* Métodos de clustering
+* K-Means
+* Métodos de reducción de dimensionalidad
+
 ## Bibliografía
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
 - An Introduction to Statistical Learning - Gareth James (Ed. Springer)
