@@ -28,6 +28,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
     * Matplotlib
     * Seaborn
     * Optuna
+    * scikit-image
 * Consola Interactiva de Python 
     * IPython
 * Herramientas
