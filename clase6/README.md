@@ -1,12 +1,10 @@
-# Clase 5
+# Clase 6
 
-## [Teoría](teoria/clase5.pdf)
+## [Teoría](teoria/clase6.pdf)
 
 * Aprendizaje no supervisado
 * Métodos de clustering
 * K-Means
-* Suma de Cuadrados Intracluster
-* Fuerza de Predicción
 * Modelo de Mixtura Gaussiana
 * Métodos de reducción de dimensionalidad
 * PCA
