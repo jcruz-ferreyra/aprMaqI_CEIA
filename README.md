@@ -17,8 +17,8 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 
 ### Requerimientos
 * Lenguaje de Programación
-    * Python >=3.8
-    * Pip / Conda para instalar librerías
+    * Python >=3.10
+    * Poetry (>=1.8) / Pip / Conda para instalar librerías
 * Librerías
     * Numpy
 	* Pandas
@@ -28,6 +28,7 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
     * Matplotlib
     * Seaborn
     * Optuna
+    * scikit-image
 * Consola Interactiva de Python 
     * IPython
 * Herramientas
@@ -35,6 +36,10 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * IDE Recomendados 
     * Visual Studio Code
     * PyCharm Community Edition    
+
+#### Poetry
+Este repositorio contiene un archivo `pyproject.toml` para instalar las dependencias usando 
+[Poetry](https://python-poetry.org/)
 
 ## Contenido
 
@@ -64,6 +69,13 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
 * Redes Neuronales
 * Perceptrones y neuronas sigmoideas
 * Redes Feed-Forward
+
+### [Clase 6](clase6/README.md)
+
+* Aprendizaje no supervisado
+* Métodos de clustering
+* K-Means
+* Métodos de reducción de dimensionalidad
 
 ## Bibliografía
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
