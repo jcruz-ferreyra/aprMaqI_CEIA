@@ -20,15 +20,15 @@ Para revisar los criterios de aprobación, ver el [documento correspondiente](Cr
     * Python >=3.10
     * Poetry (>=1.8) / Pip / Conda para instalar librerías
 * Librerías
-    * Numpy
-	* Pandas
-	* Scikit-Learn
-    * SciPy
-    * PyTorch
     * Matplotlib
-    * Seaborn
+    * Numpy
     * Optuna
-    * scikit-image
+	* Pandas
+    * PyTorch
+    * Seaborn
+    * Scikit-Learn
+    * SciPy
+    * XGBoost
 * Consola Interactiva de Python 
     * IPython
 * Herramientas
@@ -76,6 +76,11 @@ Este repositorio contiene un archivo `pyproject.toml` para instalar las dependen
 * Métodos de clustering
 * K-Means
 * Métodos de reducción de dimensionalidad
+
+### [Clase 7](clase7/README.md)
+* Métodos de ensamble
+* Boosting, Bagging y Bosques Aleatorios
+* Feature Importance
 
 ## Bibliografía
 - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Peter Bruce (Ed. O’Reilly)
