@@ -19,7 +19,7 @@ def phi_coefficient(confusion_matrix):
     return phi, p
 
 
-def evaluate_predictions(y_true, y_pred, figsize=(4, 4)):
+def evaluate_predictions(y_true, y_pred, figsize=(3, 3)):
     # Generate confusion matrix
     cm = confusion_matrix(y_true, y_pred)
 
@@ -49,10 +49,10 @@ def evaluate_predictions(y_true, y_pred, figsize=(4, 4)):
     accuracy = accuracy_score(y_true, y_pred)
 
     # Print evaluation metrics
-    print(f"Accuracy: {accuracy:.2f}")
-    print(f"Precision: {precision:.2f}")
-    print(f"Recall: {recall:.2f}")
-    print(f"F1 Score: {f1:.2f}")
+    print(f"Accuracy: {accuracy:.3f}")
+    print(f"Precision: {precision:.3f}")
+    print(f"Recall: {recall:.3f}")
+    print(f"F1 Score: {f1:.3f}")
 
 
 def print_missing_perc(df, column):
